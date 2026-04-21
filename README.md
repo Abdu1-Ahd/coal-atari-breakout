@@ -12,9 +12,9 @@ A clone of the classic Atari Breakout game written entirely in **16-bit x86 DOS 
 
 ## Screenshots
 
-*(Screenshots will be added here!)*
-<!-- Add your screenshot to assets/ and link it here: -->
-<!-- ![Gameplay](assets/screenshot.png) -->
+![Home screen](assets/Home%20screen.png)
+![In Game](assets/In%20Game.png)
+![End screen](assets/End%20screen.png)
 
 ## Prerequisites
 
