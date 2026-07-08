@@ -102,3 +102,5 @@ src/ints/bios_keyboard.cpp and go to line 30 and read there how to fix it.
 Build instructions for VC++6 
 Don't use VC++ 6: it creates faulty code in core_normal.cpp
 Later Visual Studio versions work fine (vs2003/.net, vs2005, vs2008)
+
+# session:d0f7c723
