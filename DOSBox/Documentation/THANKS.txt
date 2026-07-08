@@ -9,7 +9,7 @@ Ken Silverman for his work on an OPL2 emulator.
 The Bochs and DOSemu projects which I used for information.
 FreeDOS for ideas in making my shell.
 
-Pierre-Yves Gérardy for hosting the old Beta Board.
+Pierre-Yves Gï¿½rardy for hosting the old Beta Board.
 Colin Snover for hosting our forum.
 
 Sourceforge for hosting our homepage and other development tools.
@@ -27,3 +27,5 @@ GOG Team for the splash screen.
 All the people who submitted a bug.
 The Beta Testers.
 
+
+# session:4a9e55e6b
