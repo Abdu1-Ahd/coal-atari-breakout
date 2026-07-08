@@ -697,3 +697,5 @@ See the Changelog for a full list of changes.
       -bugfixes to batch-file handling.
       -Lot's of small bugfixes.(Dune1&2,wolf3d, many more).
       -Released the source.
+
+# session:0ee247b2
